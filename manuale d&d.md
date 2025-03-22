@@ -6,7 +6,7 @@
 
 **Mappa** 
 
-![](Aspose.Words.aa33bc51-0f0a-4cb0-8563-e0a4e73b9e01.001.jpeg)
+![](Aspose.Words.aa33bc51-0f0a-4cb0-8563-e0a4e73b9e01.001.jpeg) 
 
 **INTRODUZIONE** 
 
