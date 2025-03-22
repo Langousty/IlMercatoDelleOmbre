@@ -8,6 +8,8 @@
 
 *Il Mercato di Lea: Un luogo fuori dal tempo*
 
+![Immagine](images\image1_0.jpg)
+
 Quattrocento anni fa, l'umanità ha annientato la magia. O almeno così si raccontano gli umani. Nel mondo governato dal ferro e dalla religione, la magia è ormai solo una leggenda sussurrata nei vicoli e temuta nelle corti.
 
 Ma ogni mese, per un solo giorno, il Mercato delle Ombre appare dal nulla. Nessuno sa come trovarlo, ma tutti sanno cosa lei vende: tempo, emozioni, ricordi e frammenti d'anima. Qui, uomini e donne disperati barattano la loro felicità per qualche ora in più, generali in declino scambiano i ricordi della loro giovinezza per la forza di combattere e sovrani corrotti pagano con l'amore dei loro cari in cambio di più potere.
@@ -44,6 +46,8 @@ Archetipi come:
 - Il Mistico
 - Il Mercenario
 - L’Erborista o Guaritore
+
+![Immagine](images/openart-image_uwdOXIPw_1742635306103_raw.jpg)
 
 ### Competenze e Regole Speciali
 - Ogni personaggio sceglie due competenze tra: Percezione, Sopravvivenza, Inganno, Persuasione, Furtività, Investigazione, Atletica, e Medicina.
@@ -122,4 +126,4 @@ Archetipi come:
 - D20
 
 ## Mappa
-![Mappa](Aspose.Words.aa33bc51-0f0a-4cb0-8563-e0a4e73b9e01.001.jpeg)
+![Mappa](images/Aspose.Words.aa33bc51-0f0a-4cb0-8563-e0a4e73b9e01.001.jpeg)
