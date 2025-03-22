@@ -8,8 +8,7 @@
 
 *Il Mercato di Lea: Un luogo fuori dal tempo*
 
-![Immagine](images\image1_0.jpg)
-
+![Immagine](images\mercato.jpg)
 Quattrocento anni fa, l'umanità ha annientato la magia. O almeno così si raccontano gli umani. Nel mondo governato dal ferro e dalla religione, la magia è ormai solo una leggenda sussurrata nei vicoli e temuta nelle corti.
 
 Ma ogni mese, per un solo giorno, il Mercato delle Ombre appare dal nulla. Nessuno sa come trovarlo, ma tutti sanno cosa lei vende: tempo, emozioni, ricordi e frammenti d'anima. Qui, uomini e donne disperati barattano la loro felicità per qualche ora in più, generali in declino scambiano i ricordi della loro giovinezza per la forza di combattere e sovrani corrotti pagano con l'amore dei loro cari in cambio di più potere.
