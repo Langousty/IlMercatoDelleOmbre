@@ -86,6 +86,9 @@ Archetipi come:
 
 ## Bestiario del Mercato
 **Creature:**
+
+![Immagine](images/bestiario.webp)
+
 - L’Accolito del Debito
 - I Ratti
 - L’Artigiano delle Lacrime
